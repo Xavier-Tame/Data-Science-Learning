@@ -88,8 +88,6 @@ This project explores Netflix’s catalog of movies and TV shows, focusing on **
 * **Popular genres** are drama-heavy, with a strong presence of international films and comedies.
 * **TV-MA rating** dominates, reflecting adult content preferences.
 
-Absolutely! Here’s a **README.md section** you can add for your Netflix **Recommendation System**, explaining what it does, how it works, and showing an example. I’ve written it in Markdown so you can drop it straight into your existing README.
-
 ---
 
 ## **8. Content-Based Recommendation System**
